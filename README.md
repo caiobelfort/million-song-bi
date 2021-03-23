@@ -7,7 +7,7 @@ version: http://labrosa.ee.columbia.edu/~dpwe/tmp/millionsongsubset.tar.gz
 
 Then extract the file and put the extracted folder in data directory. The data hierarchy is probably like this:
 
-!(/img/millionsong-hierarchy.png?raw=true)
+!(https://github.com/caiobelfort/million-song-bi/blob/main/img/millionsong-hierarchy.png?raw=true)
 
 
 
